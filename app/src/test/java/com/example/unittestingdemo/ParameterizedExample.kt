@@ -1,5 +1,6 @@
 package com.example.unittestingdemo
 
+import com.example.unittestingdemo.junitest.UtilityManager
 import org.junit.Test
 import org.junit.Assert.assertEquals
 import org.junit.runner.RunWith

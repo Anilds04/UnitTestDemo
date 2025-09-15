@@ -1,4 +1,4 @@
-package com.example.unittestingdemo
+package com.example.unittestingdemo.junitest
 
 fun main(){
 

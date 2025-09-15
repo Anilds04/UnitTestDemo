@@ -1,6 +1,4 @@
-package com.example.unittestingdemo
-
-import android.util.Log
+package com.example.unittestingdemo.junitest
 
 class Helper {
 
